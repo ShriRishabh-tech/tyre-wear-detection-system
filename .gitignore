@@ -1,0 +1,35 @@
+# Build output
+build/
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Compiled binaries
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.map
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# Temporary files
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+*.log
